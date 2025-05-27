@@ -1,4 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hello%20there!&fontSize=40)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+C0ng+Hung!;+Java+Spring+Boot+Developer;Lover+of+Clean+Code+and+Open+Source" />
+</p>
+
 
 # Hi, I'm C0ngHung 👋
 
