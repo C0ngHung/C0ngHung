@@ -7,6 +7,7 @@
 
 I'm a passionate Fullstack Developer focused on React, Java Spring Boot, and Tailwind CSS.
 
+![Hacker Art](assets/n8agw6z2smyb1.gif)
 ---
 
 ## 🛠 Tech Stack
