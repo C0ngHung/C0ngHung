@@ -23,3 +23,9 @@ I'm a passionate Fullstack Developer focused on React, Java Spring Boot, and Tai
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/your-profile)](https://www.linkedin.com/in/c%C3%B4ng-h%C3%B9ng-%C4%91%C3%A0o-022238347/)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white&link=https://github.com/TRIBUI106)](https://github.com/C0ngHung)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/C0ngHung/C0ngHung/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/C0ngHung/C0ngHung/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/C0ngHung/C0ngHung/output/github-contribution-grid-snake.svg">
+</picture>
